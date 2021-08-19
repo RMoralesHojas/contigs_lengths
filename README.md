@@ -1,5 +1,5 @@
 # contigs_lengths
-A small program to read in a fast file and output a table of sequence lengths (in csv format).
+A small program to read in a fasta file and output a table of sequence lengths (in csv format).
 
 ## Usage
 It is called from the command line.
